@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/rGbM9q4.gif" width="100%" alt="Matrix Code Rain" />
+</p>
+
 <h1 align="center">Hi there, I'm Saniya 👋</h1>
 
 <p align="center">
@@ -8,11 +12,11 @@
 
 ### 🧠 About Me
 
-- 🎓 Passionate about **Physics**, **Mathematics**, and their intersection with modern computing
-- 🧠 Actively learning and experimenting with **AI**, **machine learning**, and **large language models**
-- 🛠️ Building real-world tools that blend technical depth with creative design
-- 💬 I love a little bit of everything. Aiming to be a *Jack Of All Trades, Master Of Some*
-- 💡 Always thinking beyond: curious, problem-solving, and creating
+- 🎓 Passionate about **Physics**, **Mathematics**, and their intersection with modern computing  
+- 🧠 Actively learning and experimenting with **AI**, **machine learning**, and **large language models**  
+- 🛠️ Building real-world tools that blend technical depth with creative design  
+- 💬 Aiming to be a *Jack Of All Trades, Master of Some*
+- 💡 Always thinking beyond: curious, problem-solving, and creating  
 
 ---
 
@@ -39,14 +43,14 @@
 
 ---
 
-### 📊 GitHub Stats 
+### 📊 GitHub Stats (Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saniya&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saniya&theme=radical" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -59,19 +63,20 @@
 
 ### 📫 Let's Connect!
 
-- 💌 Email:kumarisaniya498@gmail.com
-- 💬 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- 🌐 [yourportfolio.com](https://yourportfolio.com) (optional)
+- 💌 Email: your.email@example.com
+- 💬 LinkedIn: [linkedin.com/in/Saniya](https://linkedin.com/in/Saniya)
 
 ---
 
 ### 🧠 Currently Exploring
 
-- 🤖 LLMs and multimodal models (Gemini, OpenAI, Claude)
-- 📦 Backend logic with MongoDB and Python
-- 🕹 Game logic and procedural generation
-- 🎯 Building AI that helps others learn faster
+- 🤖 LLMs and multimodal models (Gemini, OpenAI, Claude)  
+- 📦 Backend logic with MongoDB and Python  
+- 🕹 Game logic and procedural generation  
+- 🎯 Building AI that helps others learn faster  
 
 ---
 
-> 🚀 “Mathematics reveals the structure of the universe. Code brings it to life.” — You
-
+> 🚀 “Mathematics reveals the structure of the universe. Code brings it to life.” — Saniya
+> 
