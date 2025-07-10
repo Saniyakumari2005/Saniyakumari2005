@@ -59,11 +59,20 @@
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Connect With Me
 
-- 💌 Email:kumarisaniya@gmail.com
-- 💬 LinkedIn: [linkedin.com/in/Saniya](https://www.linkedin.com/in/kumari-saniya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<p align="left">
+  <a href="mailto:kumarisaniya498@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/kumari-saniya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
+
+    
 ---
 
 ### 🧠 Currently Exploring
@@ -76,6 +85,6 @@
 ---
 
 <p align="center">
-  <img src="https://i.ibb.co/7xP3cgcv/bd565dcc0a556add0b0a0ed6b26d686e.gif" width="300" alt="Cool animated footer GIF" />
+  <img src="https://i.ibb.co/7xP3cgcv/bd565dcc0a556add0b0a0ed6b26d686e.gif" width="100%" alt="Cool animated footer GIF" />
 </p>
 
