@@ -85,6 +85,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.ibb.co/7xP3cgcv/bd565dcc0a556add0b0a0ed6b26d686e.gif" width="100%" alt="Cool animated footer GIF" />
+  <img src="https://iili.io/FERKPXS.md.gif" alt="Animated visual" width="500" />
 </p>
-
