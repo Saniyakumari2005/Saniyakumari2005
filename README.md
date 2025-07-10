@@ -85,7 +85,8 @@
 ---
 
 <p align="center">
-  <img src="https://iili.io/FERhkDG.gif" alt="FERhkDG animation" width="500" />
+  <img src="https://iili.io/FE5dALF.gif" alt="FE5dALF animation" width="100%" />
 </p>
+
 
 
