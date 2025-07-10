@@ -15,7 +15,7 @@
 - 🎓 Passionate about **Physics**, **Mathematics**, and their intersection with modern computing  
 - 🧠 Actively learning and experimenting with **AI**, **machine learning**, and **large language models**  
 - 🛠️ Building real-world tools that blend technical depth with creative design  
-- 💬 I love discussing ideas around quantum mechanics, neural networks, and how to make learning smarter  
+- 💬 Aiming to be a *Jack of All Trades, Master of One*
 - 💡 Always thinking beyond: curious, problem-solving, and creating  
 
 ---
@@ -77,7 +77,7 @@
 
 ### 🧠 Currently Exploring
 
-- 🤖 LLMs and multimodal models (Gemini, OpenAI, Claude)  
+- 🤖 LLMs and Multimodal Models (Gemini, OpenAI, Claude)  
 - 📦 Backend logic with MongoDB and Python  
 - 🕹 Game logic and procedural generation  
 - 🎯 Building AI that helps others learn faster  
