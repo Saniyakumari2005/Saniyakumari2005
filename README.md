@@ -85,5 +85,5 @@
 ---
 
 <p align="center">
-  <img src="https://iili.io/FERKPXS.md.gif" alt="Animated visual" width="500" />
+  <img src="https://iili.io/FERKPXS.md.gif" alt="Animated visual" width="100%" />
 </p>
