@@ -24,7 +24,7 @@
 
 | 🧩 Project | ⚙️ Description |
 |-----------|----------------|
-| **Schrody** | A smart Discord bot that tutors users in real-time using Google Gemini + MongoDB memory + slash commands |
+| **Schrödy** | A smart Discord bot that tutors users in real-time using Google Gemini + MongoDB memory + slash commands |
 | **Whodunit Game** | A clue-solving detective game where logic and deduction lead to solving mysteries |
 | **Landing Page** | A clean, responsive front-end landing site built using HTML, CSS, and PicoCSS for a fictional product/service |
 
