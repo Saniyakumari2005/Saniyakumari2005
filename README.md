@@ -53,8 +53,6 @@
 
 ---
 
-### 🌍 Dynamic Greeting
-
 ![Dynamic Greeting](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Physics+%2B+Math+%2B+AI+%3D+❤️;Always+Learning%2C+Always+Building.&center=true&width=500)
 
 ---
